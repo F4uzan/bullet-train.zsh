@@ -106,6 +106,7 @@ NOTE: You do not need to specify *end* segment - it will be added automatically.
 |Variable|Default|Meaning
 |--------|-------|-------|
 |`BULLETTRAIN_PROMPT_CHAR`|`\$`|Character to be show before any command
+|`BULLETTRAIN_PROMPT_CHAR_ROOT`|`\#`|Character to be show before any command for root account
 |`BULLETTRAIN_PROMPT_ROOT`|`true`|Highlight if running as root
 |`BULLETTRAIN_PROMPT_SEPARATE_LINE`|`true`|Make the prompt span across two lines
 |`BULLETTRAIN_PROMPT_ADD_NEWLINE`|`true`|Adds a newline character before each prompt line
