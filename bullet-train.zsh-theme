@@ -40,7 +40,7 @@ fi
 if [ ! -n "${BULLETTRAIN_PROMPT_CHAR+1}" ]; then
   BULLETTRAIN_PROMPT_CHAR="\$"
 fi
-if [ ! -n "${BULLETTRAIN_PROMPT_CHAR_ROOT}+1"]; then
+if [ ! -n "${BULLETTRAIN_PROMPT_CHAR_ROOT}+1" ]; then
   BULLETTRAIN_PROMPT_CHAR_ROOT="\#"
 fi
 if [ ! -n "${BULLETTRAIN_PROMPT_ROOT+1}" ]; then
